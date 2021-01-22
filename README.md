@@ -5,4 +5,4 @@ Details of Houses:
 2Bhk
 3Bhk
 
-Villa..
+Villa...
